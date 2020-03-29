@@ -1,0 +1,8 @@
+name: conda-environment
+channels:
+        - conda
+dependencies:
+        - numpy
+        - matplotlib
+        - pandas
+        - scipy
